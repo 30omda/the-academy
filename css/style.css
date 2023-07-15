@@ -1170,20 +1170,36 @@ html {
   min-height: 280px;
 }
 .services .card .card-body .box {
-  text-align: start ;
+  text-align:   center ;
   height: 400px;
+
+}
+.services .card .card-body .box img{
+  border-radius: 50%;
+
+}
+.services .card .card-body .box h4{
+  color:#212529;
+
+
+}
+.services .card .card-body .box p{
+  text-align: right;
+
+
 }
 
 .services .card .card-body .box .content-i ul li {
-  list-style: none;
+  /* list-style: none; */
   color:#839393;
+  text-align: right;
 }
 .services .card .card-body .box .avatar-sm {
   margin: 0 auto 30px auto;
 }
-.services .card .card-body .box .my-3 img {
-  align-items: center;
-  border-radius: 50%;
+.services .card .card-body .box P {
+  text-align: start;
+
 }
 .services .card .card-body .box .avatar-sm .avatar-title {
   align-items: center;
