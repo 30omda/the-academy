@@ -1191,9 +1191,11 @@ html {
 
 .services .card .card-body .box .content-i ul li {
   /* list-style: none; */
-  color:#839393;
+
+  color:#252d31;
   text-align: right;
 }
+
 .services .card .card-body .box .avatar-sm {
   margin: 0 auto 30px auto;
 }
